@@ -1,0 +1,15 @@
+goos: darwin
+goarch: amd64
+pkg: github.com/vikramjakhr/goplay/pointervsstruct
+BenchmarkMemoryStack-4   	100000000	        11.4 ns/op	       0 B/op	       0 allocs/op
+BenchmarkMemoryStack-4   	100000000	        12.0 ns/op	       0 B/op	       0 allocs/op
+BenchmarkMemoryStack-4   	100000000	        11.6 ns/op	       0 B/op	       0 allocs/op
+BenchmarkMemoryStack-4   	100000000	        11.9 ns/op	       0 B/op	       0 allocs/op
+BenchmarkMemoryStack-4   	100000000	        11.2 ns/op	       0 B/op	       0 allocs/op
+BenchmarkMemoryStack-4   	100000000	        11.4 ns/op	       0 B/op	       0 allocs/op
+BenchmarkMemoryStack-4   	100000000	        11.3 ns/op	       0 B/op	       0 allocs/op
+BenchmarkMemoryStack-4   	100000000	        11.2 ns/op	       0 B/op	       0 allocs/op
+BenchmarkMemoryStack-4   	100000000	        11.4 ns/op	       0 B/op	       0 allocs/op
+BenchmarkMemoryStack-4   	100000000	        11.4 ns/op	       0 B/op	       0 allocs/op
+PASS
+ok  	github.com/vikramjakhr/goplay/pointervsstruct	11.619s
